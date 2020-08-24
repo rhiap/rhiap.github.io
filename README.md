@@ -12,4 +12,5 @@ The Intelligent Application Practice unites several disciplines to create busine
 All using Red Hat's Open Source products and services.
 
 ## Thought Leadership
-* Jeff Taylor : [BPMN Timers, Red Hat Process Automation Manager, and PostgreSQL 11](https://medium.com/bpmn-timers-red-hat-process-automation-manager-and/bpmn-timers-red-hat-process-automation-manager-and-postgresql-11-e67cd7d8b613)
+* [Jupyterlab Operator](https://github.com/atef23/jupyterlab-operator)
+* [BPMN Timers, Red Hat Process Automation Manager, and PostgreSQL 11](https://medium.com/bpmn-timers-red-hat-process-automation-manager-and/bpmn-timers-red-hat-process-automation-manager-and-postgresql-11-e67cd7d8b613) 
